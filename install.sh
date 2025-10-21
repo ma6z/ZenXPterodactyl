@@ -228,7 +228,7 @@ while true; do
             read -p "$(echo -e "${YELLOW}Press Enter to continue...${NC}")" -n 1
             ;;
         0)
-            echo -e "${GREEN}Exiting Jishnu Hosting Manager...${NC}"
+            echo -e "${GREEN}Exiting ZenX Hosting Manager...${NC}"
             print_header_rule
             echo -e "${CYAN}           Thank you for using our tools!       ${NC}"
             print_header_rule
